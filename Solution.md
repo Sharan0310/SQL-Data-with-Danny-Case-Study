@@ -2,7 +2,7 @@
 
 ## Solution
 
-View the complete syntax [here]
+View the complete syntax [here] https://github.com/Sharan0310/SQL-Data-with-Danny-Case-Study/blob/main/README.md
 
 ***
 
